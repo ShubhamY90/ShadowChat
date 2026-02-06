@@ -4,3 +4,4 @@ __pycache__/
 state.json
 .wacli/
 memory.json
+.DS_Store
